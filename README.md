@@ -1,4 +1,4 @@
-# 🧠 Personalized Mental Health Assistant
+# 🧠MindWellness - A Personalized Mental Health Assistant
 
 A full-stack web application designed to support users in tracking and understanding their mental health through mood logging, AI-powered insights, and therapist interaction. Built with **React + TypeScript + Tailwind CSS** on the frontend and **Django** (Python) on the backend with **SQLite** for data storage.
 
