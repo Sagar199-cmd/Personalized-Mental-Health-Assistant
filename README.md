@@ -41,6 +41,38 @@ A full-stack web application designed to support users in tracking and understan
 
 ## 📷 Screenshots
 
+### 🏠 Home Page
+![Home](./Screenshot/home.png)
+
+### 🔐 Login Page
+![Login](./Screenshot/login.png)
+
+### 📝 Mood Logging Interface
+![Mood Entries](./Screenshot/Mood_Entries.png)
+
+### 🧠 AI Mood Insight (Model Present, Not Integrated)
+![AI Mood Insight](./Screenshot/AI_Mood_Insight.png)
+
+### 📊 AI Insights (Planned)
+![AI Insights](./Screenshot/AI_Insights.png)
+
+### 📈 Insights Dashboard (UI Only)
+![Insight](./Screenshot/Insight.png)
+
+### 🧑‍⚕️ Therapist Panel (Backend Pending)
+![Therapist](./Screenshot/Therapist.png)
+
+### 👥 Users Dashboard
+![Users](./Screenshot/Users.png)
+
+### 🧰 Feature Overview
+![Features](./Screenshot/Features.png)
+
+### 🧩 Database Schema (SQLite)
+![Database](./Screenshot/Database.png)
+
+### 🖥️ Main Dashboard
+![Dashboard](./Screenshot/Dashboard.png)
 
 
 ---
